@@ -1,2 +1,10 @@
 Adobe premier pro adalaha platform yagn editing profesional
 Bedanya klo adobe sama after effect itu after effect dia itu motion grapic ya jadi dia pake compsisition kalo adobe premiere itu pake sequence iya gitu deh trus juga klo lu maubuat transistion yang super smooth bisa di after effect.
+Shortcut 
+
+Kalo mau smoothin Keyframing itu F9
+Kalo mau trim Alt+[ or Alt+]
+Duplicate Ctrl+D
+Nempelin di tamline tahan Shift
+Maju satu Frame Ctrl+Arrow
+Maju 5 frame Ctrl+Shift+Arrow
